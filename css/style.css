@@ -6,7 +6,7 @@ body{
 }
 header{
     background-color: pink;
-    padding: 20px;
+    padding: 10px;
 }
 
 header h1{
@@ -53,4 +53,46 @@ footer{
     margin:0% auto;
     
     }
+    .homeimg{
+        display: flex;
+        justify-content: center;
+    }
+.destacados{
+    color: #FF01E0;
+    font-weight: 700;
+}
+
+h2{
+    color: #f378e9;
+    font-weight: 500;
+}
+
+/* inicio de home */
+
+.Bienvenidos{
+    width: 75%;
+    line-height: 25px;
+}
+
+.Testimonios{
+    width: 25%;
+    line-height: 25px;
+    padding: 10px;
+}
+.columnas{
+    display: flex;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Fin de home */
  
